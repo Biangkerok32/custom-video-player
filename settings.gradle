@@ -1,0 +1,1 @@
+include ':exoplayer-2.9.6', ':exoplayer-dash-2.9.6', ':exoplayer-hls-2.9.6', ':exoplayer-smoothstreaming-2.9.6', ':exoplayer-ui-2.9.6'
